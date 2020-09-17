@@ -1,6 +1,8 @@
 # Fantasy-Football-Scraper
 Web Scraper to gather and manipulate fantasy football data 
+
 Hoping to add an AI feature to start a league with
+
 Some ideas:
  - Feed data over the season
  - Add height, weight, speed, jumping, etc. 
